@@ -1,5 +1,5 @@
 # Mon premier script à tester avec l'IA
 def saluer(nom):
-    print("Bonjour " + nom)
+    print("Bonjour " + nom.upper())
 
-saluer("le monde")
+saluer("David")
